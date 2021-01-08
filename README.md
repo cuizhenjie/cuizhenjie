@@ -1,4 +1,4 @@
-### Hey, I'm cuizhenjie & I ❤️ code.👋
+### Hey, I'm cuizhenjie & I ❤️  code.👋
 
 [![Visits Badge](https://badges.pufler.dev/visits/sciencepal/sciencepal)](https://badges.pufler.dev/visits/sciencepal/sciencepal)
 
@@ -22,6 +22,3 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 [![ghostxbh's github stats](https://github-readme-stats.vercel.app/api?username=cuizhenjie&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-![picture](https://cdn.jsdelivr.net/gh/LeeDebug/PicGo/img/20201210233843.gif)
